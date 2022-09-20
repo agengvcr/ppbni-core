@@ -255,6 +255,9 @@
             }else if ($(this).val() == 'DPAC'){
                 $('#desa').hide();
                 $('#kecamatan').show();
+            }else{
+                $('#desa').show();
+                $('#kecamatan').show();
             }
         });
 
@@ -293,6 +296,19 @@
                         // targetContainer.find('[name=desa]').val(data.anggota_desa);
                         targetContainer.find('[name=jabatan]').val(data.anggota_jabatan);
                         targetContainer.modal('show');
+
+                        targetContainer.find('[name=divisi]').on('change',function(){
+                            if($(this).val() == 'DPC'){
+                                    $('#desa').hide();
+                                    $('#kecamatan').hide();
+                            }else if ($(this).val() == 'DPAC'){
+                                $('#desa').hide();
+                                $('#kecamatan').show();
+                            }else{
+                                $('#desa').show();
+                                $('#kecamatan').show();
+                            }
+                        }).triger('change');
                 }
             });
         });
