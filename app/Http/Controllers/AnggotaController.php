@@ -133,7 +133,8 @@ class AnggotaController extends Controller
                 
                 $result['status'] = 'Data berhasil diperbaharui';
                 $result['success'] = true;
-
+                $kecamatan = $data['divisi'] == 'DPAC' || $data['divisi'] == 'RANTING' ?  $data['kecamatan']: null;
+                $desa = $data['divisi'] == 'RANTING'  ?  $data['desa']: null;
                 $arraydata=array(
                     'anggota_nik'=>$data['nik'],
                     // "anggota_id"=>$data['id'],
@@ -141,12 +142,15 @@ class AnggotaController extends Controller
                     "anggota_alamat"=>$data['alamat'],
                     "anggota_masaberlaku"=>$data['masaberlaku'],
                     "anggota_divisi"=>$data['divisi'],
-                    "anggota_kecamatan"=>$data['kecamatan'],
-                    "anggota_desa"=>$data['desa'],
+                    "anggota_kecamatan"=> $kecamatan,
+                    "anggota_desa"=>$desa,
                     "anggota_jabatan"=>$data['jabatan'],
                     "anggota_modifieduserid"=>1,
                     "anggota_index" => $data['index'],
                     "anggota_modifieddate"=>\Carbon\Carbon::now(),
+                    "anggota_tempatlahir" => $data['tempatlahir'],
+                    "anggota_tanggallahir" => $data['tanggallahir'],
+                    "anggota_agama" => $data['agama']
                 );
 
                 DB::table('anggota')->where('anggota_id',$data['id'])
@@ -154,22 +158,26 @@ class AnggotaController extends Controller
                     ->update($arraydata);
             }else{
                 // insert //default kode id APPBNI-
-                $lasid = DB::selectOne("select substring(anggota_id,8,20) as lasid from anggota where anggota_active = '1' order by substring(anggota_id,8,20) desc limit 1");
-                
+                $lasid = DB::selectOne("select anggota_id as lasid from anggota where anggota_active = '1' order by anggota_id desc limit 1");
+                $kecamatan = $data['divisi'] == 'DPAC' || $data['divisi'] == 'RANTING' ?  $data['kecamatan']: null;
+                $desa = $data['divisi'] == 'RANTING'  ?  $data['desa']: null;
                 $data=array(
                     'anggota_nik'=>$data['nik'],
-                    "anggota_id"=>'APPBNI-'.($lasid != null ? intVal($lasid->lasid)+1 : 1),
+                    "anggota_id"=>($lasid != null ? intVal($lasid->lasid)+1 : 1),
                     "anggota_nama"=>$data['nama'],
                     "anggota_alamat"=>$data['alamat'],
                     "anggota_masaberlaku"=>$data['masaberlaku'],
                     "anggota_divisi"=>$data['divisi'],
-                    "anggota_kecamatan"=>$data['kecamatan'],
-                    "anggota_desa"=>$data['desa'],
+                    "anggota_kecamatan"=>$kecamatan,
+                    "anggota_desa"=>$desa,
                     "anggota_jabatan"=>$data['jabatan'],
                     "anggota_createduserid"=>1,
                     "anggota_active" => 1,
                     "anggota_index" => $data['index'],
                     "anggota_createddate"=>\Carbon\Carbon::now(),
+                    "anggota_tempatlahir" => $data['tempatlahir'],
+                    "anggota_tanggallahir" => $data['tanggallahir'],
+                    "anggota_agama" => $data['agama']
                 );
                 DB::table('anggota')->insert($data);
                 $result['status'] = 'Data berhasil tersimpan';

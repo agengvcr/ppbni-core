@@ -38,6 +38,23 @@
                     <input required name="nama" type="text" class="form-control input-sm col-sm-8"placeholder="Nama">
                 </div>
                 <div class="form-row">
+                    <label class="col-sm-3" for="exampleInputEmail1">Agama</label>
+                    <select required name="agama" id="inputState" class="form-control col-sm-8">
+                        <option>Islam</option>
+                        <option>Budha</option>
+                        <option>Kristen</option>
+                        <option>Budha</option>
+                    </select>
+                </div>
+                <div class="form-row">
+                    <label class="col-sm-3" for="exampleInputEmail1">Tempat Lahir</label>
+                    <input required name="tempatlahir" type="text" class="form-control input-sm col-sm-8"placeholder="Alamat">
+                </div>
+                <div class="form-row">
+                    <label class="col-sm-3" for="exampleInputEmail1">Tanggal Lahir</label>
+                    <input required name="tanggallahir" type="date" class="form-control input-sm col-sm-8"placeholder="Alamat">
+                </div>
+                <div class="form-row">
                     <label class="col-sm-3" for="exampleInputEmail1">Alamat</label>
                     <input required name="alamat" type="text" class="form-control input-sm col-sm-8"placeholder="Alamat">
                 </div>
@@ -45,7 +62,7 @@
                     <label class="col-sm-3" for="exampleInputEmail1">Masa Berlaku</label>
                     <input required name="masaberlaku" type="date" class="form-control input-sm col-sm-8"placeholder="Alamat">
                 </div>
-                <div class="form-row">
+                <div class="form-row" id ="divisi">
                     <label class="col-sm-3" for="exampleInputEmail1">Divisi</label>
                     <select required name="divisi" id="inputState" class="form-control col-sm-8">
                         <option>DPC</option>
@@ -53,17 +70,17 @@
                         <option>RANTING</option>
                     </select>
                 </div>
-                <div class="form-row">
+                <div class="form-row" id="kecamatan">
                     <label class="col-sm-3" for="exampleInputEmail1">Kecamatan</label>
-                    <select required name="kecamatan" id="inputState" class="form-control col-sm-8">
+                    <select  name="kecamatan" id="inputState" class="form-control col-sm-8">
                     @foreach($kecamatan as $row)
                         <option>{{$row->nama}}</option>
                     @endforeach
                     </select>
                 </div>
-                <div class="form-row">
+                <div class="form-row" id="desa">
                     <label class="col-sm-3" for="exampleInputEmail1">Desa</label>
-                    <select required name="desa" id="desa" class="form-control col-sm-8">
+                    <select  name="desa" id="desa" class="form-control col-sm-8">
                     </select>
                 </div>
                 <div class="form-row">
@@ -230,6 +247,17 @@
                 }
             });
         });
+
+        $('[name=divisi]').on('change',function(){
+            if($(this).val() == 'DPC'){
+                $('#desa').hide();
+                $('#kecamatan').hide();
+            }else if ($(this).val() == 'DPAC'){
+                $('#desa').hide();
+                $('#kecamatan').show();
+            }
+        });
+
 
         $('#tambahBaru').on('click',function(){
             var targetContainer = $('#tambahAnggota');
