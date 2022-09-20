@@ -1,0 +1,96 @@
+[22-Jun-2022 09:29:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[22-Jun-2022 09:29:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[22-Jun-2022 09:29:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[22-Jun-2022 09:29:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[22-Jun-2022 09:29:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[22-Jun-2022 09:29:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[22-Jun-2022 12:55:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[22-Jun-2022 12:55:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[22-Jun-2022 12:55:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[22-Jun-2022 12:56:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[22-Jun-2022 12:56:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[22-Jun-2022 12:56:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[22-Jun-2022 16:40:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[22-Jun-2022 16:40:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[22-Jun-2022 16:40:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[22-Jun-2022 16:40:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[22-Jun-2022 16:41:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[22-Jun-2022 16:41:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[22-Jun-2022 20:42:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[22-Jun-2022 20:42:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[22-Jun-2022 20:42:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[22-Jun-2022 20:42:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[22-Jun-2022 20:42:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[22-Jun-2022 20:42:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/dpcn5822/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7

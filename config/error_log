@@ -1,0 +1,392 @@
+[22-Jun-2022 09:26:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/app.php on line 16
+[22-Jun-2022 09:26:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/app.php on line 16
+[22-Jun-2022 09:26:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/broadcasting.php on line 18
+[22-Jun-2022 09:26:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/broadcasting.php on line 18
+[22-Jun-2022 09:26:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/cache.php on line 21
+[22-Jun-2022 09:26:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/cache.php on line 21
+[22-Jun-2022 09:26:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/database.php on line 18
+[22-Jun-2022 09:26:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/database.php on line 18
+[22-Jun-2022 09:26:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/filesystems.php on line 16
+[22-Jun-2022 09:26:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/filesystems.php on line 16
+[22-Jun-2022 09:26:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/hashing.php on line 32
+[22-Jun-2022 09:26:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/hashing.php on line 32
+[22-Jun-2022 09:26:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/logging.php on line 20
+[22-Jun-2022 09:26:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/logging.php on line 20
+[22-Jun-2022 09:26:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/mail.php on line 16
+[22-Jun-2022 09:26:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/mail.php on line 16
+[22-Jun-2022 09:26:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/queue.php on line 16
+[22-Jun-2022 09:26:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/queue.php on line 16
+[22-Jun-2022 09:26:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/services.php on line 18
+[22-Jun-2022 09:26:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/services.php on line 18
+[22-Jun-2022 09:26:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/session.php on line 21
+[22-Jun-2022 09:26:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/session.php on line 21
+[22-Jun-2022 09:26:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/dpcn5822/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/view.php on line 17
+[22-Jun-2022 09:26:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/dpcn5822/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/view.php on line 17
+[22-Jun-2022 12:52:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/app.php on line 16
+[22-Jun-2022 12:52:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/app.php on line 16
+[22-Jun-2022 12:52:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/broadcasting.php on line 18
+[22-Jun-2022 12:52:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/broadcasting.php on line 18
+[22-Jun-2022 12:52:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/cache.php on line 21
+[22-Jun-2022 12:52:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/cache.php on line 21
+[22-Jun-2022 12:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/database.php on line 18
+[22-Jun-2022 12:52:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/database.php on line 18
+[22-Jun-2022 12:52:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/filesystems.php on line 16
+[22-Jun-2022 12:52:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/filesystems.php on line 16
+[22-Jun-2022 12:52:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/hashing.php on line 32
+[22-Jun-2022 12:52:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/hashing.php on line 32
+[22-Jun-2022 12:52:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/logging.php on line 20
+[22-Jun-2022 12:52:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/logging.php on line 20
+[22-Jun-2022 12:52:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/mail.php on line 16
+[22-Jun-2022 12:52:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/mail.php on line 16
+[22-Jun-2022 12:52:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/queue.php on line 16
+[22-Jun-2022 12:53:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/queue.php on line 16
+[22-Jun-2022 12:53:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/services.php on line 18
+[22-Jun-2022 12:53:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/services.php on line 18
+[22-Jun-2022 12:53:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/session.php on line 21
+[22-Jun-2022 12:53:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/session.php on line 21
+[22-Jun-2022 12:53:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/dpcn5822/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/view.php on line 17
+[22-Jun-2022 12:53:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/dpcn5822/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/view.php on line 17
+[22-Jun-2022 13:36:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/services.php on line 18
+[22-Jun-2022 16:21:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/services.php on line 18
+[22-Jun-2022 16:36:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/app.php on line 16
+[22-Jun-2022 16:36:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/app.php on line 16
+[22-Jun-2022 16:37:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/broadcasting.php on line 18
+[22-Jun-2022 16:37:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/broadcasting.php on line 18
+[22-Jun-2022 16:37:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/cache.php on line 21
+[22-Jun-2022 16:37:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/cache.php on line 21
+[22-Jun-2022 16:37:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/database.php on line 18
+[22-Jun-2022 16:37:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/database.php on line 18
+[22-Jun-2022 16:37:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/filesystems.php on line 16
+[22-Jun-2022 16:37:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/filesystems.php on line 16
+[22-Jun-2022 16:37:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/hashing.php on line 32
+[22-Jun-2022 16:37:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/hashing.php on line 32
+[22-Jun-2022 16:37:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/logging.php on line 20
+[22-Jun-2022 16:37:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/logging.php on line 20
+[22-Jun-2022 16:37:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/mail.php on line 16
+[22-Jun-2022 16:37:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/mail.php on line 16
+[22-Jun-2022 16:37:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/queue.php on line 16
+[22-Jun-2022 16:37:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/queue.php on line 16
+[22-Jun-2022 16:37:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/services.php on line 18
+[22-Jun-2022 16:37:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/services.php on line 18
+[22-Jun-2022 16:37:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/session.php on line 21
+[22-Jun-2022 16:37:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/session.php on line 21
+[22-Jun-2022 16:37:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/dpcn5822/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/view.php on line 17
+[22-Jun-2022 16:37:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/dpcn5822/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/view.php on line 17
+[22-Jun-2022 20:38:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/app.php on line 16
+[22-Jun-2022 20:38:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/app.php on line 16
+[22-Jun-2022 20:38:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/broadcasting.php on line 18
+[22-Jun-2022 20:38:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/broadcasting.php on line 18
+[22-Jun-2022 20:38:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/cache.php on line 21
+[22-Jun-2022 20:38:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/cache.php on line 21
+[22-Jun-2022 20:38:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/database.php on line 18
+[22-Jun-2022 20:38:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/database.php on line 18
+[22-Jun-2022 20:38:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/filesystems.php on line 16
+[22-Jun-2022 20:38:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/filesystems.php on line 16
+[22-Jun-2022 20:38:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/hashing.php on line 32
+[22-Jun-2022 20:38:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/hashing.php on line 32
+[22-Jun-2022 20:38:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/logging.php on line 20
+[22-Jun-2022 20:38:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/logging.php on line 20
+[22-Jun-2022 20:38:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/mail.php on line 16
+[22-Jun-2022 20:38:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/mail.php on line 16
+[22-Jun-2022 20:38:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/queue.php on line 16
+[22-Jun-2022 20:38:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/queue.php on line 16
+[22-Jun-2022 20:38:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/services.php on line 18
+[22-Jun-2022 20:38:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/services.php on line 18
+[22-Jun-2022 20:39:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/session.php on line 21
+[22-Jun-2022 20:39:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dpcn5822/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/session.php on line 21
+[22-Jun-2022 20:39:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/dpcn5822/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/view.php on line 17
+[22-Jun-2022 20:39:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/dpcn5822/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/config/view.php on line 17

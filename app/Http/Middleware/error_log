@@ -1,0 +1,224 @@
+[22-Jun-2022 09:33:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/dpcn5822/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/Authenticate.php on line 7
+[22-Jun-2022 09:33:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/dpcn5822/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/Authenticate.php on line 7
+[22-Jun-2022 09:33:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/dpcn5822/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[22-Jun-2022 09:33:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/dpcn5822/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[22-Jun-2022 09:33:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/dpcn5822/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[22-Jun-2022 09:33:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/dpcn5822/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[22-Jun-2022 09:33:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[22-Jun-2022 09:33:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[22-Jun-2022 09:33:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrustHosts.php on line 7
+[22-Jun-2022 09:33:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrustHosts.php on line 7
+[22-Jun-2022 09:33:40 UTC] PHP Fatal error:  Uncaught Error: Class "Fideloper\Proxy\TrustProxies" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[22-Jun-2022 09:33:42 UTC] PHP Fatal error:  Uncaught Error: Class "Fideloper\Proxy\TrustProxies" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[22-Jun-2022 09:33:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/dpcn5822/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[22-Jun-2022 09:33:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/dpcn5822/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[22-Jun-2022 13:01:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/dpcn5822/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/Authenticate.php on line 7
+[22-Jun-2022 13:01:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/dpcn5822/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/Authenticate.php on line 7
+[22-Jun-2022 13:01:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/dpcn5822/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[22-Jun-2022 13:01:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/dpcn5822/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[22-Jun-2022 13:01:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/dpcn5822/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[22-Jun-2022 13:01:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/dpcn5822/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[22-Jun-2022 13:01:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[22-Jun-2022 13:01:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[22-Jun-2022 13:01:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrustHosts.php on line 7
+[22-Jun-2022 13:01:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrustHosts.php on line 7
+[22-Jun-2022 13:01:50 UTC] PHP Fatal error:  Uncaught Error: Class "Fideloper\Proxy\TrustProxies" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[22-Jun-2022 13:01:51 UTC] PHP Fatal error:  Uncaught Error: Class "Fideloper\Proxy\TrustProxies" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[22-Jun-2022 13:01:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/dpcn5822/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[22-Jun-2022 13:01:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/dpcn5822/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[22-Jun-2022 16:46:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/dpcn5822/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/Authenticate.php on line 7
+[22-Jun-2022 16:46:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/dpcn5822/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/Authenticate.php on line 7
+[22-Jun-2022 16:46:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/dpcn5822/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[22-Jun-2022 16:46:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/dpcn5822/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[22-Jun-2022 16:46:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/dpcn5822/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[22-Jun-2022 16:46:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/dpcn5822/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[22-Jun-2022 16:47:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[22-Jun-2022 16:47:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[22-Jun-2022 16:47:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrustHosts.php on line 7
+[22-Jun-2022 16:47:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrustHosts.php on line 7
+[22-Jun-2022 16:47:08 UTC] PHP Fatal error:  Uncaught Error: Class "Fideloper\Proxy\TrustProxies" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[22-Jun-2022 16:47:11 UTC] PHP Fatal error:  Uncaught Error: Class "Fideloper\Proxy\TrustProxies" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[22-Jun-2022 16:47:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/dpcn5822/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[22-Jun-2022 16:47:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/dpcn5822/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[22-Jun-2022 20:48:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/dpcn5822/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/Authenticate.php on line 7
+[22-Jun-2022 20:48:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/dpcn5822/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/Authenticate.php on line 7
+[22-Jun-2022 20:48:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/dpcn5822/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[22-Jun-2022 20:48:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/dpcn5822/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[22-Jun-2022 20:48:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/dpcn5822/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[22-Jun-2022 20:48:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/dpcn5822/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[22-Jun-2022 20:48:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[22-Jun-2022 20:48:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[22-Jun-2022 20:48:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrustHosts.php on line 7
+[22-Jun-2022 20:48:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrustHosts.php on line 7
+[22-Jun-2022 20:48:25 UTC] PHP Fatal error:  Uncaught Error: Class "Fideloper\Proxy\TrustProxies" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[22-Jun-2022 20:48:27 UTC] PHP Fatal error:  Uncaught Error: Class "Fideloper\Proxy\TrustProxies" not found in /home/dpcn5822/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[22-Jun-2022 20:48:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/dpcn5822/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[22-Jun-2022 20:48:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/dpcn5822/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7

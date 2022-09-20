@@ -1,0 +1,32 @@
+[22-Jun-2022 09:28:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/dpcn5822/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Kernel.php on line 7
+[22-Jun-2022 09:28:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/dpcn5822/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Kernel.php on line 7
+[22-Jun-2022 12:55:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/dpcn5822/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Kernel.php on line 7
+[22-Jun-2022 12:55:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/dpcn5822/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Kernel.php on line 7
+[22-Jun-2022 16:39:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/dpcn5822/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Kernel.php on line 7
+[22-Jun-2022 16:39:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/dpcn5822/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Kernel.php on line 7
+[22-Jun-2022 20:41:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/dpcn5822/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Kernel.php on line 7
+[22-Jun-2022 20:41:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/dpcn5822/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/app/Http/Kernel.php on line 7

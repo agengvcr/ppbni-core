@@ -1,0 +1,32 @@
+[22-Jun-2022 09:30:16 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/dpcn5822/public_html/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/tests/Feature/ExampleTest.php on line 8
+[22-Jun-2022 09:30:17 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/dpcn5822/public_html/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/tests/Feature/ExampleTest.php on line 8
+[22-Jun-2022 12:57:23 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/dpcn5822/public_html/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/tests/Feature/ExampleTest.php on line 8
+[22-Jun-2022 12:57:25 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/dpcn5822/public_html/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/tests/Feature/ExampleTest.php on line 8
+[22-Jun-2022 16:42:23 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/dpcn5822/public_html/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/tests/Feature/ExampleTest.php on line 8
+[22-Jun-2022 16:42:25 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/dpcn5822/public_html/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/tests/Feature/ExampleTest.php on line 8
+[22-Jun-2022 20:43:47 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/dpcn5822/public_html/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/tests/Feature/ExampleTest.php on line 8
+[22-Jun-2022 20:43:49 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/dpcn5822/public_html/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dpcn5822/public_html/tests/Feature/ExampleTest.php on line 8
